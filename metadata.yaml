@@ -1,0 +1,50 @@
+_repo: The-Byzantines_70596
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Powers, Richard M.
+    aliases:
+    - Powers, Richard Gorman
+    - Powers, Richard G. (Richard Gorman)
+    - Powers, Richard Michael Gorman
+    - Gorman, Terry
+    birthdate: 1921
+    deathdate: 1996
+    gutenberg_agent_id: '55812'
+    url: http://www.gutenberg.org/2009/agents/55812
+    wikipedia: https://en.wikipedia.org/wiki/Richard_M._Powers
+creator:
+  author:
+    agent_name: Chubb, Thomas Caldecot
+    birthdate: 1899
+    deathdate: 1972
+    gutenberg_agent_id: '55774'
+    url: http://www.gutenberg.org/2009/agents/55774
+description: ''
+gutenberg_issued: '2023-04-19'
+identifiers:
+  gutenberg: '70596'
+  lccn: '59005919'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uva.x000455739
+pgterms:marc905: 20201229083512chubb
+pgterms:marc906: '1959'
+pgterms:marc907: US
+production_note: Bob Taylor, Tim Lindell and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bThe World Publishing Co., $c1959.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Byzantine Empire -- History -- Juvenile literature'
+- !lcc 'DF'
+- GITenberg
+tableOfContents: A crusade that went astray -- Byzantium, crossroads of the world
+  -- The Roman Empire and Constantinople -- The Holy Augustus -- A Roman army on horseback
+  -- One religion, one church -- Golden Bezants -- The Byzantine way of life -- Last
+  days of the Empire -- Chronological chart of the Byzantine Empire and world events
+  -- Books for further reading -- Index and glossary.
+title: The Byzantines
+url: http://www.gutenberg.org/ebooks/70596
