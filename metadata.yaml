@@ -13,6 +13,9 @@ contributor:
     gutenberg_agent_id: '55812'
     url: http://www.gutenberg.org/2009/agents/55812
     wikipedia: https://en.wikipedia.org/wiki/Richard_M._Powers
+covers:
+- cover_type: archival
+  image_path: 70596-h/images/cover.jpg
 creator:
   author:
     agent_name: Chubb, Thomas Caldecot
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '55774'
     url: http://www.gutenberg.org/2009/agents/55774
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70596#The-Byzantines
 gutenberg_issued: '2023-04-19'
 identifiers:
   gutenberg: '70596'
